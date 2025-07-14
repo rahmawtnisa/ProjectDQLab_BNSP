@@ -1,6 +1,6 @@
 # 🚀 Analisis Segmentasi Pelanggan & Diskon SaaS AWS: Memaksimalkan Penjualan dan Keuntungan\!
 
-Proyek ini adalah puncak dari perjalanan saya di Bootcamp Data Analyst DQLab Batch 16\! Kami menyelami lautan data transaksi AWS SaaS untuk mengungkap rahasia di balik segmentasi pelanggan dan dampak nyata dari strategi diskon terhadap penjualan dan keuntungan. Siap untuk menemukan sweet spot diskon yang optimal? Mari selami\!
+Proyek ini adalah puncak dari perjalanan saya di Bootcamp Data Analyst DQLab Batch 16\! 
 
 ## 🎯 Tujuan Proyek
 
